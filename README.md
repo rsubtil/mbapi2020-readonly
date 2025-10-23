@@ -1,3 +1,9 @@
+> [!NOTE]
+> This is a [fork](https://github.com/ReneNulschDE/mbapi2020) that only removes all code pertaining to services that can be executed remotely, particularly sensitive actions (e.g unlock car, open windows). It only exposes sensor data, hence the "read-only" designation
+
+> [!WARNING]
+> I maintain this fork for personal usage only. Do not expect development and/or time commitment if you decide to use this. **You're on your own**
+
 # "Mercedes-Benz" custom component
 
 ![HassFest tests](https://github.com/renenulschde/mbapi2020/workflows/Validate%20with%20hassfest/badge.svg) ![Validate with HACS](https://github.com/ReneNulschDE/mbapi2020/workflows/Validate%20with%20HACS/badge.svg) ![](https://img.shields.io/github/downloads/renenulschde/mbapi2020/total) ![](https://img.shields.io/github/downloads/renenulschde/mbapi2020/latest/total)
